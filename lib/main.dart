@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_presensi_dosen_app/home_page.dart';
+import 'package:flutter_presensi_dosen_app/ui/home/widgets/home_section.dart';
 
 void main() {
   runApp(const MyApp());
